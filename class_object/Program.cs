@@ -8,111 +8,55 @@ namespace LibraryManagementSystem
         {
             Console.Clear();
             Console.Write("Enter Library Name: ");
-            string library_name = Console.ReadLine();
+            string libraryName = Console.ReadLine();
 
-            Console.Write($"Enter the max Capacity of {library_name} : ");
-            int max_books = int.Parse(Console.ReadLine());
-            Console.WriteLine($"---------------------------------------------");
+            Console.Write($"Enter the capacity of {libraryName}: ");
+            int capacity = int.Parse(Console.ReadLine());
 
+            Library library = new(libraryName, capacity);
 
-
-            Library myLib_1 = new(library_name, max_books, max_books);
-            Console.WriteLine($"---------------------------------------------");
-            Console.Write("How Many Books you want to add : ");
-            int count = int.Parse(Console.ReadLine());
-            Console.WriteLine($"---------------------------------------------");
-            while (max_books >= 0 && count > 0)
+            while (true)
             {
-                Console.Write("Enter book titles: ");
-                string input = Console.ReadLine();
-                myLib_1.AddBook(input);
-                max_books--;
-                count--;
-            } 
-            Console.WriteLine($"---------------------------------------------");
-            myLib_1.DisplayBooks();
-            Console.WriteLine($"\n\n\n\n\n");
-            
-        // // ... Setter And Getter
-            // Console.Clear();
-            // Person p1 = new()
-            // {
-            //     Name = "Mersad",
-            //     Age = 22,
-            //     Job = "Programmer",
-            // };
-            // p1.Info();
+                Console.WriteLine("\nMenu:");
+                Console.WriteLine("1. Add Book");
+                Console.WriteLine("2. Borrow Book");
+                Console.WriteLine("3. Return Book");
+                Console.WriteLine("4. Display Books");
+                Console.WriteLine("5. Exit");
+                Console.Write("Choose an option: ");
 
-            // ...  Inheritance
-            // Computer c1 = new();
-            // Console.WriteLine("-------");
-            // Mobile m1 = new();
-            // Console.WriteLine("-------");
-            // c1.digital_id = 2;
-            // c1.type = "Computer";
-            // m1.digital_id = 2;
-            // m1.type = "Mobile";
-            // Console.WriteLine(c1.type);
-            // Console.WriteLine(c1.digital_id);
-            // c1.Start();
+                int choice = int.Parse(Console.ReadLine());
 
-            // Console.WriteLine(m1.type);
-            // Console.WriteLine(m1.digital_id);
-            // m1.Start();
-
-
-        }
-    internal class Person
-    {
-        // Setter And Getter
-        private string _name;
-        private int _age;
-
-        public string Job { set; get; }
-
-        public int Age
-        {
-            set
-            {
-                if (value < 0 || value > 120)
+                switch (choice)
                 {
-                    Console.WriteLine($"the Age is invalid!");
-
-                }
-                else
-                {
-                    _age = value;
+                    case 1:
+                        Console.Write("Enter book title to add: ");
+                        string bookTitle = Console.ReadLine();
+                        library.AddBook(bookTitle);
+                        break;
+                    case 2:
+                        Console.Write("Enter book title to borrow: ");
+                        string borrowTitle = Console.ReadLine();
+                        Console.Write("Enter your name: ");
+                        string borrowerName = Console.ReadLine();
+                        library.BorrowBook(borrowTitle, borrowerName);
+                        break;
+                    case 3:
+                        Console.Write("Enter book title to return: ");
+                        string returnTitle = Console.ReadLine();
+                        library.ReturnBook(returnTitle);
+                        break;
+                    case 4:
+                        library.DisplayBooks();
+                        break;
+                    case 5:
+                        Console.WriteLine("Exiting program. Goodbye!");
+                        return;
+                    default:
+                        Console.WriteLine("Invalid choice. Please try again.");
+                        break;
                 }
             }
-            get { return _age; }
-        }
-        public string Name
-        {
-            set
-            {
-                if (!string.IsNullOrEmpty(value))
-                {
-                    _name = value;
-                }
-                else
-                {
-                    Console.WriteLine($"Name cannot be null or empty");
-
-                }
-            }
-            get { return _name; }
-            }
-
-        public void Info()
-            {
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Age: {Age}");
-            Console.WriteLine($"Job: {Job}");
-
-
-            }
-
-
         }
     }
 }
