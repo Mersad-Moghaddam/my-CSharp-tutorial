@@ -5,6 +5,7 @@ namespace Gym
     {
         static void Main()
         {
+            
             Console.Clear();
 
             Console.WriteLine("Welcome to the Gym Membership System!");
@@ -31,7 +32,7 @@ namespace Gym
             Console.Clear();
             
             Console.WriteLine($"-----------------------------------------------------------");
-            Console.WriteLine("Registering a new premium member...");
+            Console.WriteLine($"Registering a new {membershipPlan} member...");
             premiumMember.RegisterMember();
             // Add Menu to manage the membership - its up unto the user to choose exit
             bool exit = false;
