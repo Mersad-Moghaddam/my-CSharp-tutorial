@@ -1,0 +1,14 @@
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/bin/Debug/net9.0/EmployeeRecordManager
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/bin/Debug/net9.0/EmployeeRecordManager.deps.json
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/bin/Debug/net9.0/EmployeeRecordManager.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/bin/Debug/net9.0/EmployeeRecordManager.dll
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/bin/Debug/net9.0/EmployeeRecordManager.pdb
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.dll
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/refint/EmployeeRecordManager.dll
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.pdb
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/EmployeeRecordManager.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/EmployeeRecordManager/obj/Debug/net9.0/ref/EmployeeRecordManager.dll

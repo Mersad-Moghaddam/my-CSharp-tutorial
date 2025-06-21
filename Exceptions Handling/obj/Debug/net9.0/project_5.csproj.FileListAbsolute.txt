@@ -1,0 +1,14 @@
+/Users/mersad/Desktop/C# Bootcamp/project_5/bin/Debug/net9.0/project_5
+/Users/mersad/Desktop/C# Bootcamp/project_5/bin/Debug/net9.0/project_5.deps.json
+/Users/mersad/Desktop/C# Bootcamp/project_5/bin/Debug/net9.0/project_5.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/project_5/bin/Debug/net9.0/project_5.dll
+/Users/mersad/Desktop/C# Bootcamp/project_5/bin/Debug/net9.0/project_5.pdb
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.dll
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/refint/project_5.dll
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.pdb
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/project_5.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/project_5/obj/Debug/net9.0/ref/project_5.dll

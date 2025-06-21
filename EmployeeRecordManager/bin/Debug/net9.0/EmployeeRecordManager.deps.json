@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EmployeeRecordManager/1.0.0": {
+        "runtime": {
+          "EmployeeRecordManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeRecordManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

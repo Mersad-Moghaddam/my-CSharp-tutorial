@@ -1,0 +1,14 @@
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/bin/Debug/net9.0/PersonalInformationSystem
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/bin/Debug/net9.0/PersonalInformationSystem.deps.json
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/bin/Debug/net9.0/PersonalInformationSystem.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/bin/Debug/net9.0/PersonalInformationSystem.dll
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/bin/Debug/net9.0/PersonalInformationSystem.pdb
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.dll
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/refint/PersonalInformationSystem.dll
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.pdb
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/PersonalInformationSystem.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/PersonalInformationSystem/obj/Debug/net9.0/ref/PersonalInformationSystem.dll

@@ -1,0 +1,14 @@
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/bin/Debug/net9.0/project_4_functions
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/bin/Debug/net9.0/project_4_functions.deps.json
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/bin/Debug/net9.0/project_4_functions.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/bin/Debug/net9.0/project_4_functions.dll
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/bin/Debug/net9.0/project_4_functions.pdb
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.dll
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/refint/project_4_functions.dll
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.pdb
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/project_4_functions.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/project_4_functions/obj/Debug/net9.0/ref/project_4_functions.dll

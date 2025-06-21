@@ -1,0 +1,14 @@
+/Users/mersad/Desktop/C# Bootcamp/OOP/bin/Debug/net9.0/OOP
+/Users/mersad/Desktop/C# Bootcamp/OOP/bin/Debug/net9.0/OOP.deps.json
+/Users/mersad/Desktop/C# Bootcamp/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/OOP/bin/Debug/net9.0/OOP.dll
+/Users/mersad/Desktop/C# Bootcamp/OOP/bin/Debug/net9.0/OOP.pdb
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.dll
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/refint/OOP.dll
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.pdb
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/OOP/obj/Debug/net9.0/ref/OOP.dll
