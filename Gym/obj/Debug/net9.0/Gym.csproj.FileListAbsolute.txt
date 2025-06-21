@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/Gym/bin/Debug/net9.0/Gym
+/Users/mersad/Desktop/C# Bootcamp/Gym/bin/Debug/net9.0/Gym.deps.json
+/Users/mersad/Desktop/C# Bootcamp/Gym/bin/Debug/net9.0/Gym.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/Gym/bin/Debug/net9.0/Gym.dll
+/Users/mersad/Desktop/C# Bootcamp/Gym/bin/Debug/net9.0/Gym.pdb
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.dll
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/refint/Gym.dll
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.pdb
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/Gym.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/Gym/obj/Debug/net9.0/ref/Gym.dll
