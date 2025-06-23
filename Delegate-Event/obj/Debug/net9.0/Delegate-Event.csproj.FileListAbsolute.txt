@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/bin/Debug/net9.0/Delegate-Event
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/bin/Debug/net9.0/Delegate-Event.deps.json
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/bin/Debug/net9.0/Delegate-Event.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/bin/Debug/net9.0/Delegate-Event.dll
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/bin/Debug/net9.0/Delegate-Event.pdb
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.dll
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/refint/Delegate-Event.dll
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.pdb
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/Delegate-Event.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/Delegate-Event/obj/Debug/net9.0/ref/Delegate-Event.dll

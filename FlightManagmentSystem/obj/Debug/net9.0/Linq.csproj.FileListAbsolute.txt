@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/Linq/bin/Debug/net9.0/Linq
+/Users/mersad/Desktop/C# Bootcamp/Linq/bin/Debug/net9.0/Linq.deps.json
+/Users/mersad/Desktop/C# Bootcamp/Linq/bin/Debug/net9.0/Linq.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/Linq/bin/Debug/net9.0/Linq.dll
+/Users/mersad/Desktop/C# Bootcamp/Linq/bin/Debug/net9.0/Linq.pdb
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.dll
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/refint/Linq.dll
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.pdb
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/Linq.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/Linq/obj/Debug/net9.0/ref/Linq.dll

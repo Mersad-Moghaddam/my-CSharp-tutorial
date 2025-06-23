@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/Tuple/bin/Debug/net9.0/Tuple
+/Users/mersad/Desktop/C# Bootcamp/Tuple/bin/Debug/net9.0/Tuple.deps.json
+/Users/mersad/Desktop/C# Bootcamp/Tuple/bin/Debug/net9.0/Tuple.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/Tuple/bin/Debug/net9.0/Tuple.dll
+/Users/mersad/Desktop/C# Bootcamp/Tuple/bin/Debug/net9.0/Tuple.pdb
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.dll
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/refint/Tuple.dll
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.pdb
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/Tuple.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/Tuple/obj/Debug/net9.0/ref/Tuple.dll
