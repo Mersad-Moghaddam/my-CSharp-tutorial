@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/bin/Debug/net9.0/UniversityStudentManagmentSystem
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/bin/Debug/net9.0/UniversityStudentManagmentSystem.deps.json
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/bin/Debug/net9.0/UniversityStudentManagmentSystem.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/bin/Debug/net9.0/UniversityStudentManagmentSystem.dll
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/bin/Debug/net9.0/UniversityStudentManagmentSystem.pdb
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.dll
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/refint/UniversityStudentManagmentSystem.dll
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.pdb
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/UniversityStudentManagmentSystem.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/UniversityStudentManagmentSystem/obj/Debug/net9.0/ref/UniversityStudentManagmentSystem.dll
