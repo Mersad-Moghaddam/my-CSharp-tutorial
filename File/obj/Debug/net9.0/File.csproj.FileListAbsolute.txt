@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/File/bin/Debug/net9.0/File
+/Users/mersad/Desktop/C# Bootcamp/File/bin/Debug/net9.0/File.deps.json
+/Users/mersad/Desktop/C# Bootcamp/File/bin/Debug/net9.0/File.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/File/bin/Debug/net9.0/File.dll
+/Users/mersad/Desktop/C# Bootcamp/File/bin/Debug/net9.0/File.pdb
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.dll
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/refint/File.dll
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.pdb
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/File.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/File/obj/Debug/net9.0/ref/File.dll
