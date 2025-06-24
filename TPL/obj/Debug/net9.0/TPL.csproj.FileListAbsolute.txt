@@ -1,0 +1,15 @@
+/Users/mersad/Desktop/C# Bootcamp/TPL/bin/Debug/net9.0/TPL
+/Users/mersad/Desktop/C# Bootcamp/TPL/bin/Debug/net9.0/TPL.deps.json
+/Users/mersad/Desktop/C# Bootcamp/TPL/bin/Debug/net9.0/TPL.runtimeconfig.json
+/Users/mersad/Desktop/C# Bootcamp/TPL/bin/Debug/net9.0/TPL.dll
+/Users/mersad/Desktop/C# Bootcamp/TPL/bin/Debug/net9.0/TPL.pdb
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.AssemblyInfoInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.AssemblyInfo.cs
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.csproj.CoreCompileInputs.cache
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.sourcelink.json
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.dll
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/refint/TPL.dll
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.pdb
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/TPL.genruntimeconfig.cache
+/Users/mersad/Desktop/C# Bootcamp/TPL/obj/Debug/net9.0/ref/TPL.dll
